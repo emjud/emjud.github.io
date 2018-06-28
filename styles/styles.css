@@ -4,8 +4,8 @@ html {
 
 body {
     font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
-    background: url("../img/backgroundv3.jpg") #8583a8 no-repeat;
-    background-size: cover;
+    background: url("../img/backgroundv3.jpg") #a2b2c9 repeat;
+    background-size:cover;
     text-align: center;
     padding: 36px;
     box-sizing: border-box;
@@ -18,6 +18,7 @@ body {
     max-width: 960px;
     text-align: center;
     background: url("../img/backgroundv2.jpg") white no-repeat;
+    background-size:cover;
     border-radius: 120px;
     margin : auto;
 }
@@ -49,8 +50,7 @@ h1 {
     font-size : 35px;
     color : ghostwhite;
     font-family: 'MV Boli';
-    
-}
+    }
 
 h2 {
     font-size : 20px;
@@ -66,5 +66,5 @@ h3 {
 
 p {
     margin-bottom: 0;
-    font-size : 20px;
+    font-size : 22px;
 }
