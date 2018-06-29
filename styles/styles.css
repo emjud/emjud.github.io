@@ -4,8 +4,9 @@ html {
 
 body {
     font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
-    background: url("../img/backgroundv3.jpg") #a2b2c9 repeat;
+    background: url("../img/backgroundv3.jpg") #a2b2c9 no-repeat;
     background-size:cover;
+    background-attachment:fixed;
     text-align: center;
     padding: 36px;
     box-sizing: border-box;
@@ -48,23 +49,25 @@ body {
 h1 {
     margin-top: 0;
     font-size : 35px;
-    color : ghostwhite;
+    color : #272fa1;
     font-family: 'MV Boli';
     }
 
 h2 {
     font-size : 20px;
-    color : ghostwhite;
-    font-family: 'Segoe Print';
+    color : #272fa1;
+    font-family: 'MV Boli';
 }
 
 h3 {
     font-size : 22px;
     color: #272fa1;
     margin-bottom: 0;
+    font-family: 'Segoe Print';
 }
 
 p {
     margin-bottom: 0;
     font-size : 22px;
+    font-family: 'Tahoma';
 }

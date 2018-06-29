@@ -115,13 +115,13 @@
 	</g>
 </g>
 <g id="Calque_3">
-	<polygon class="st1" points="180,69 261,98 209,179 253,254 180,284 161,200 54,180 98,98 	"/>
+	<polygon class="st1" points="180,69 252,105 209,179 260,261 180,284 155,204 54,180 98,98 	"/>
 	<rect x="19" y="339" class="st1" width="17" height="11"/>
 	<rect x="40.3" y="341.7" class="st2" width="67.5" height="13.7"/>
 	<text transform="matrix(1 0 0 1 40.3247 350.2197)" class="st3 st4">Objectif</text>
 </g>
 <g id="Calque_2">
-	<polygon class="st5" points="218,140 191.5,179.5 232.5,233.5 179.5,247.5 159.5,199.5 96.5,179.5 122.5,122.5 179.5,92.5 	"/>
+	<polygon class="st5" points="208,149 191.5,179.5 232.5,233.5 179.5,247.5 159.5,199.5 99.5,179.5 122.5,122.5 179.5,92.5 	"/>
 	<rect x="19" y="330" class="st6" width="17" height="11"/>
 	<rect x="40.3" y="330.9" class="st2" width="103.6" height="17.3"/>
 	<text transform="matrix(1 0 0 1 40.3247 339.3904)" class="st3 st4">Aujourd’hui</text>
